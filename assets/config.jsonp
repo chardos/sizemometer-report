@@ -1,0 +1,12 @@
+window.config = {
+  "title": "sizemometer report",
+  "trackedFiles": [
+    "dist/main-*.js",
+    "dist/vendors*.js"
+  ],
+  "theme": {
+    "accentColor": "#BADA55"
+  },
+  "commitIgnorePattern": "Update dependency",
+  "repositoryUrl": "https://github.com/SEEK-Jobs/ca-settings-ui"
+}

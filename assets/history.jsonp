@@ -1,0 +1,324 @@
+window.snapshot = {
+  "dist/main-*.js": [
+    {
+      "author": "Richard Tan",
+      "commitHash": "8531111cf9025b05f81ddefbed06297d661fc808",
+      "commitMessage": "Add git (#96)",
+      "size": 22513,
+      "timestamp": "1550540119000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "83014b4d1541da77694df3cbbc5755ed6dfc2aee",
+      "commitMessage": "chore(deps): Update dependency sku to v8.0.4 (#97)",
+      "size": 22495,
+      "timestamp": "1550547667000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "3ee8aa8fb8ccb008fefa107f27eef6274e25a367",
+      "commitMessage": "chore(deps): Update dependency sku to v8.0.5 (#98)",
+      "size": 22495,
+      "timestamp": "1550549504000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "de7a1f54d1eabe72dd09ec00a9c530a75f7e1a5e",
+      "commitMessage": "chore(deps): Update dependency sku to v8.1.0 (#100)",
+      "size": 22495,
+      "timestamp": "1551060942000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "7f0a8d0a815ef5b6bdc9aa0497b0eedb68db4842",
+      "commitMessage": "fix(deps): Update dependency @seek/validators-js to v5.1.2 (#101)",
+      "size": 22495,
+      "timestamp": "1551063388000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "2930c13425d8369eb9fa835094366a04f38cca76",
+      "commitMessage": "chore(deps): Update dependency sku to v8.1.2 (#102)",
+      "size": 22495,
+      "timestamp": "1551217323000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "ff0cdf6b57b9604e8dc495670b8f99d63b12b539",
+      "commitMessage": "chore(deps): Update dependency sku to v8.1.3 (#103)",
+      "size": 22495,
+      "timestamp": "1551321251000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "f0ad73a0948b779fff4751173428231f0e439888",
+      "commitMessage": "chore(deps): Update dependency sku to v8.2.2 (#104)",
+      "size": 22495,
+      "timestamp": "1551409106000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "4712b772c6dc244417d4fc2e20f491a777bf189b",
+      "commitMessage": "chore(deps): Update dependency sku to v8.3.0 (#106)",
+      "size": 22495,
+      "timestamp": "1551749523000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "d1b82500382ff3a306d091bf009f2c5c6396ceb4",
+      "commitMessage": "fix(deps): Update dependency seek-style-guide to v38.11.2 (#107)",
+      "size": 22495,
+      "timestamp": "1551750685000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "1349bef04cbdc200860479b42103fd8433ee0697",
+      "commitMessage": "fix(deps): Update dependency @seek/validators-js to v5.1.4 (#105)",
+      "size": 22444,
+      "timestamp": "1551817656000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "1167092f97714f8d6cc051e63b03dd9f09ab87a0",
+      "commitMessage": "fix(deps): Update dependency seek-style-guide to v38.11.3 (#108)",
+      "size": 22444,
+      "timestamp": "1551845878000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "8577098404e062a21a18e8a2f2d12c645f2106f3",
+      "commitMessage": "chore(deps): Update dependency @seek/static-site-deploy to v5.0.1 (#109)",
+      "size": 22444,
+      "timestamp": "1552341653000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "d38fc2c3c7892529d0e4d74010c69d34a15182fd",
+      "commitMessage": "fix(deps): Update dependency seek-style-guide to v38.12.0 (#110)",
+      "size": 22444,
+      "timestamp": "1552889234000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "16666457efd7ce12df4a2225ea6261b381c2e4d9",
+      "commitMessage": "chore(deps): Update dependency sku to v8.4.0 (#111)",
+      "size": 22444,
+      "timestamp": "1552945870000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "e1d1037b3fc48dc259bd677dbbec1b1726b5e39d",
+      "commitMessage": "fix(deps): Update dependency @seek/validators-js to v5.2.0 (#112)",
+      "size": 22444,
+      "timestamp": "1553205160000"
+    },
+    {
+      "author": "Richard Tan",
+      "commitHash": "caac50f6ebf721dfeae21b046fce3348777f3f3c",
+      "commitMessage": "Add PR and issues templates (#113)",
+      "size": 22444,
+      "timestamp": "1553225938000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "78b756c31c4b519d07f6bd9f0c11786d62fa735f",
+      "commitMessage": "chore(deps): Update dependency @seek/sizemometer-s3-deploy to v1.6.0 (#114)",
+      "size": 22444,
+      "gzippedSize": 7923,
+      "timestamp": "1553491683000"
+    },
+    {
+      "author": "Francis Reyes",
+      "commitHash": "e9a8c58a855a2a89a8989981b93c0ebf2990fe7f",
+      "commitMessage": "Use node:10.15-slim base image (#118)",
+      "size": 22444,
+      "gzippedSize": 7923,
+      "timestamp": "1554271197000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "f2ed7178306eff86d66a9315acd6a150b59d6d5d",
+      "commitMessage": "fix(deps): Update dependency seek-style-guide to v38.13.0 (#121)",
+      "size": 22444,
+      "gzippedSize": 7923,
+      "timestamp": "1554337848000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "ab4ab95665641ead2e4972c3ee5db4078120ef3f",
+      "commitMessage": "chore(deps): Update dependency @seek/sizemometer-s3-deploy to v1.8.0 (#119)",
+      "size": 22444,
+      "gzippedSize": 7923,
+      "timestamp": "1554345672000"
+    },
+    {
+      "author": "Richard Tan",
+      "commitHash": "97ac79f65ef61bda11f7cea7a2fcc3cf07e5b92d",
+      "commitMessage": "Update sizemometer config (#123)",
+      "size": 22444,
+      "gzippedSize": 7923,
+      "timestamp": "1554346933000"
+    }
+  ],
+  "dist/vendors*.js": [
+    {
+      "author": "Richard Tan",
+      "commitHash": "8531111cf9025b05f81ddefbed06297d661fc808",
+      "commitMessage": "Add git (#96)",
+      "size": 402928,
+      "timestamp": "1550540119000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "83014b4d1541da77694df3cbbc5755ed6dfc2aee",
+      "commitMessage": "chore(deps): Update dependency sku to v8.0.4 (#97)",
+      "size": 402841,
+      "timestamp": "1550547667000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "3ee8aa8fb8ccb008fefa107f27eef6274e25a367",
+      "commitMessage": "chore(deps): Update dependency sku to v8.0.5 (#98)",
+      "size": 402841,
+      "timestamp": "1550549504000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "de7a1f54d1eabe72dd09ec00a9c530a75f7e1a5e",
+      "commitMessage": "chore(deps): Update dependency sku to v8.1.0 (#100)",
+      "size": 402841,
+      "timestamp": "1551060942000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "7f0a8d0a815ef5b6bdc9aa0497b0eedb68db4842",
+      "commitMessage": "fix(deps): Update dependency @seek/validators-js to v5.1.2 (#101)",
+      "size": 402841,
+      "timestamp": "1551063388000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "2930c13425d8369eb9fa835094366a04f38cca76",
+      "commitMessage": "chore(deps): Update dependency sku to v8.1.2 (#102)",
+      "size": 403183,
+      "timestamp": "1551217323000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "ff0cdf6b57b9604e8dc495670b8f99d63b12b539",
+      "commitMessage": "chore(deps): Update dependency sku to v8.1.3 (#103)",
+      "size": 402960,
+      "timestamp": "1551321251000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "f0ad73a0948b779fff4751173428231f0e439888",
+      "commitMessage": "chore(deps): Update dependency sku to v8.2.2 (#104)",
+      "size": 402960,
+      "timestamp": "1551409106000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "4712b772c6dc244417d4fc2e20f491a777bf189b",
+      "commitMessage": "chore(deps): Update dependency sku to v8.3.0 (#106)",
+      "size": 402960,
+      "timestamp": "1551749523000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "d1b82500382ff3a306d091bf009f2c5c6396ceb4",
+      "commitMessage": "fix(deps): Update dependency seek-style-guide to v38.11.2 (#107)",
+      "size": 403166,
+      "timestamp": "1551750685000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "1349bef04cbdc200860479b42103fd8433ee0697",
+      "commitMessage": "fix(deps): Update dependency @seek/validators-js to v5.1.4 (#105)",
+      "size": 384959,
+      "timestamp": "1551817656000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "1167092f97714f8d6cc051e63b03dd9f09ab87a0",
+      "commitMessage": "fix(deps): Update dependency seek-style-guide to v38.11.3 (#108)",
+      "size": 384962,
+      "timestamp": "1551845878000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "8577098404e062a21a18e8a2f2d12c645f2106f3",
+      "commitMessage": "chore(deps): Update dependency @seek/static-site-deploy to v5.0.1 (#109)",
+      "size": 384962,
+      "timestamp": "1552341653000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "d38fc2c3c7892529d0e4d74010c69d34a15182fd",
+      "commitMessage": "fix(deps): Update dependency seek-style-guide to v38.12.0 (#110)",
+      "size": 384828,
+      "timestamp": "1552889234000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "16666457efd7ce12df4a2225ea6261b381c2e4d9",
+      "commitMessage": "chore(deps): Update dependency sku to v8.4.0 (#111)",
+      "size": 384919,
+      "timestamp": "1552945870000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "e1d1037b3fc48dc259bd677dbbec1b1726b5e39d",
+      "commitMessage": "fix(deps): Update dependency @seek/validators-js to v5.2.0 (#112)",
+      "size": 384919,
+      "timestamp": "1553205160000"
+    },
+    {
+      "author": "Richard Tan",
+      "commitHash": "caac50f6ebf721dfeae21b046fce3348777f3f3c",
+      "commitMessage": "Add PR and issues templates (#113)",
+      "size": 384919,
+      "timestamp": "1553225938000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "78b756c31c4b519d07f6bd9f0c11786d62fa735f",
+      "commitMessage": "chore(deps): Update dependency @seek/sizemometer-s3-deploy to v1.6.0 (#114)",
+      "size": 384919,
+      "gzippedSize": 119336,
+      "timestamp": "1553491683000"
+    },
+    {
+      "author": "Francis Reyes",
+      "commitHash": "e9a8c58a855a2a89a8989981b93c0ebf2990fe7f",
+      "commitMessage": "Use node:10.15-slim base image (#118)",
+      "size": 384919,
+      "gzippedSize": 119336,
+      "timestamp": "1554271197000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "f2ed7178306eff86d66a9315acd6a150b59d6d5d",
+      "commitMessage": "fix(deps): Update dependency seek-style-guide to v38.13.0 (#121)",
+      "size": 385110,
+      "gzippedSize": 119390,
+      "timestamp": "1554337848000"
+    },
+    {
+      "author": "renovate[bot]",
+      "commitHash": "ab4ab95665641ead2e4972c3ee5db4078120ef3f",
+      "commitMessage": "chore(deps): Update dependency @seek/sizemometer-s3-deploy to v1.8.0 (#119)",
+      "size": 385110,
+      "gzippedSize": 119390,
+      "timestamp": "1554345672000"
+    },
+    {
+      "author": "Richard Tan",
+      "commitHash": "97ac79f65ef61bda11f7cea7a2fcc3cf07e5b92d",
+      "commitMessage": "Update sizemometer config (#123)",
+      "size": 385110,
+      "gzippedSize": 119390,
+      "timestamp": "1554346933000"
+    }
+  ]
+}
