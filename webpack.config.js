@@ -1,4 +1,4 @@
-const entry = `${__dirname}/index.js`;
+const entry = `${__dirname}/src/index.js`;
 const outputPath = `${__dirname}/dist`;
 
 module.exports = {
@@ -6,7 +6,7 @@ module.exports = {
   entry,
   output: {
     path: outputPath,
-    publicPath: '/', // webpack-dev-server outputs from here
+    publicPath: '/assets', // webpack-dev-server outputs from here
     filename: 'bundle.js',
   },
   module: {
