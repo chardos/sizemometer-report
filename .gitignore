@@ -1,6 +1,7 @@
 node_modules
 .DS_store
 tmp
+assets
 dist
 .sizemometer
 website/history.json

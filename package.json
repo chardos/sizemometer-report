@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "start": "webpack-dev-server",
+    "build": "webpack",
     "test": "ENV=test jest",
     "lint": "eslint 'src/**/*.js' 'website/**/*.js' --ignore-pattern '*.test.js'",
     "lint:fix": "eslint 'src/**/*.js' 'website/**/*.js' --fix --ignore-pattern '*.test.js'",
@@ -15,6 +16,7 @@
   },
   "main": "src/api/index.js",
   "dependencies": {
+    "filesize": "^4.1.2",
     "lodash.debounce": "4.0.8",
     "lodash.get": "4.4.2",
     "opn": "5.4.0",

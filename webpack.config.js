@@ -1,14 +1,12 @@
 const entry = `${__dirname}/index.js`;
-const findUp = require('find-up');
-
-const outputPath = findUp.sync('dist', { cwd: __dirname });
+const outputPath = `${__dirname}/dist`;
 
 module.exports = {
-  mode: 'development',
+  // mode: 'development',
   entry,
   output: {
     path: outputPath,
-    publicPath: '/assets/', // string
+    publicPath: '/', // webpack-dev-server outputs from here
     filename: 'bundle.js',
   },
   module: {
