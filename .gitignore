@@ -3,5 +3,4 @@ node_modules
 tmp
 assets
 dist
-.sizemometer
-website/history.json
+package-lock.json

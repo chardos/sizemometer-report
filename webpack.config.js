@@ -1,8 +1,13 @@
 const entry = `${__dirname}/src/index.js`;
 const outputPath = `${__dirname}/dist`;
 
+// run a node command that generates the assets randomly before hand
+
 module.exports = {
-  // mode: 'development',
+  devServer: {
+    // contentBase: `${__dirname}/assets2`,
+    port: 8080
+  },
   entry,
   output: {
     path: outputPath,
